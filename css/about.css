@@ -1,10 +1,10 @@
 @font-face {
     font-family: bodyfont;
-    src: url(/htdocs/assets/Agbalumo-Regular.ttf);
+    src: url(/htdocs/assets/Agbalumo-Regular.woff2);
 }
 @font-face {
     font-family: subfont;
-    src: url(/htdocs/assets/SignikaNegative.ttf);
+    src: url(/htdocs/assets/SignikaNegative.woff2);
 }
 *{
     margin: 0;
@@ -16,7 +16,7 @@
 .body-container{
     width: 100vw;
     height: 100%;
-    background-image: url(/htdocs/images/jungle11.jpg);
+    background-image: url(/htdocs/images/jungle11.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
