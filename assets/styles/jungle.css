@@ -343,6 +343,7 @@ input:checked ~ .slide{
 
 /* hamburger end here  */
 
+
 @media screen and (max-width:768px)  {
     .logo-box h1{
         display: none;
@@ -365,7 +366,16 @@ input:checked ~ .slide{
         
     }
     #subhero-text{
-        line-height: 200px;
+        line-height: 100px;
+        font-size: 8rem;
+    }
+
+    #herotext{
+        font-size: 8rem;
+    }
+    #tagline{
+        
+        font-size: 2rem; 
     }
 
 }
